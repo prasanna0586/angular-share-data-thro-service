@@ -1,0 +1,8 @@
+<div>
+	<form ng-submit="showDescription()">
+  		Choose an option and click on submit
+		<input type = "radio" ng-model = "option" ng-value = "option1"> Chocolate </input>
+		<input type = "radio" ng-model = "option" ng-value = "option2"> Strawberry </input>
+		<input type="submit" class="btn btn-default" id="submit" value="Submit" />
+	</form>
+</div>
