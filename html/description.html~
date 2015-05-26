@@ -1,4 +1,0 @@
-<div>
-	<h1>{{selectedOption.description}}</h1>
-	<a href = "#/options"> Go Back </a>
-</div>
